@@ -1,5 +1,7 @@
 # WPACrackerByHadoop
 
+Author: aruyuna
+
 Start at: 2017.9.20
 
 Last Fix at: 2018.1.14
