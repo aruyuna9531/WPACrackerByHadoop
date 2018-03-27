@@ -12,7 +12,7 @@
 
 5.EAPOL Frame（某个802.11x帧的全部内容（除了MIC），计算生成MIC时需要使用）
 
-编译：gcc -o CaptureAnalyze CaptureAnalyze.c
+编译：gcc -o CaptureAnalyze CaptureAnalyze.c -lcrypto
 
 执行指令：./CaptureAnalyze $CapName $Result
 
@@ -22,7 +22,7 @@
 
 注：
 
-1.大概Windows下也能编译和使用。因为没有用到什么乱七八糟的其他头文件
+1.引用了Openssl，得先安装这个。
 
 2.该程序可能有Bug（具体表现在多个用户同时连接AP时会捕捉到大量握手帧，此时可能会有4次握手帧交错而顺序混乱的状态，此时分析出来的结果将是错误的。但限于实验条件一般只会捕捉到1组握手帧，因此暂时无影响）
 
