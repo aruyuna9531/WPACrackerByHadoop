@@ -1,6 +1,6 @@
 # WPACrackerByHadoop
 
-Author: aruyuna
+Author: aruyuna (Li Dashen) @ Sun Yat-sen University
 
 Start at: 2017.9.20
 
