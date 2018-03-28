@@ -16,7 +16,7 @@ en:
 
 When you use this program, it means that you have accepted all the rules below.
 
-You can modify this project or take an experience. But you should obey the law.
+You can modify this project or take an experiment. But you should obey the law.
 
 You will accept all the consequences of using this program.
 
