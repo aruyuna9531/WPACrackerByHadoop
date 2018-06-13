@@ -24,20 +24,6 @@ Please contact me if you want to reproduce it, and indicate the source(here) if 
 
 Your mail should use languages by one of Chinese, English and Japanese. Such as other languages or the result of machine translation which I cannot understand the messages, there's no reply.
 
-jp:
-
-ご利用いただくには、以下の全てに同意されたものとみなされます。
-
-本プログラムは、改訂および利用はできます。
-
-しかし、当地の法律を守らなければなりません。
-
-本プログラムのご利用により不法行為や争いなどが起こる場合、本人は一切の責任を負わないものとします。
-
-転載したい方は、メールアドレスから本人にご連絡ください。また、転載元（本サイト）を添付してください。
-
-メールは中国語、日本語、英語だけに対応しています。他の言語や機械的な翻訳など内容が不明瞭な場合は返事の対象外となります。
-
 ——————————————————————————————————————————
 
 Author: aruyuna 
