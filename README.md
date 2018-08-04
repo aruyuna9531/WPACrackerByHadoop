@@ -10,8 +10,6 @@ zh:
 
 转载请联系本人（联系方式在下方），并在转载后注明出处（本地址）。
 
-邮件咨询请使用中文、英语、日语。其他语言以及使用机器翻译导致看不懂意思的邮件不予受理。
-
 en:
 
 When you use this program, it means that you have accepted all the rules below.
@@ -21,8 +19,6 @@ You can modify this project or take an experiment. But you should obey the law.
 You will accept all the consequences of using this program.
 
 Please contact me if you want to reproduce it, and indicate the source(here) if reproduced.
-
-Your mail should use languages by one of Chinese, English and Japanese. Such as other languages or the result of machine translation which I cannot understand the messages, there's no reply.
 
 ——————————————————————————————————————————
 
